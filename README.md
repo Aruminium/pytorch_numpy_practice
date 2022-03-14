@@ -9,3 +9,4 @@
 3. [データ変換（Transforms）](https://github.com/Aruminium/pytorch_numpy_practice/blob/main/Pytorch_Practice_Transforms3.ipynb)（学習日：2022/03/11）
 4. [モデル構築（Build Model）](https://github.com/Aruminium/pytorch_numpy_practice/blob/main/Learn_the_Basics/Pytorch_Practice_Build_Model4.ipynb)（学習日：2022/03/11）
 5. [自動微分（Autograd）](https://github.com/Aruminium/pytorch_numpy_practice/blob/main/Learn_the_Basics/Pytorch_Practice_Autograd.ipynb)（学習日：2022/03/14）
+6. [最適化（Optimization Loop）](https://github.com/Aruminium/pytorch_numpy_practice/blob/main/Learn_the_Basics/Pytorch_Practice_Optimization_Loop6.ipynb)（学習日：2022/03/14）
