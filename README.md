@@ -11,3 +11,4 @@
 5. [自動微分（Autograd）](https://github.com/Aruminium/pytorch_numpy_practice/blob/main/Learn_the_Basics/Pytorch_Practice_Autograd.ipynb)（学習日：2022/03/14）
 6. [最適化（Optimization Loop）](https://github.com/Aruminium/pytorch_numpy_practice/blob/main/Learn_the_Basics/Pytorch_Practice_Optimization_Loop6.ipynb)（学習日：2022/03/14）
 7. [モデルの保存・読み込み（Save, Load and Use Model）](https://github.com/Aruminium/pytorch_numpy_practice/blob/main/Learn_the_Basics/Pytorch_Practice_Save_Load_and_Use_Model7.ipynb)（学習日：2022/03/15）
+8. [クイックスタート（Quickstart）](https://github.com/Aruminium/pytorch_numpy_practice/blob/main/Learn_the_Basics/Pytorch_Practice_Quickstart8.ipynb)（学習日：2022/03/15）
