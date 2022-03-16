@@ -15,4 +15,5 @@
 
 ## PyTorch基礎(Learning PyTorch)
 
-1. [ PyTorchとは？（WHAT IS PYTORCH?）](https://github.com/Aruminium/pytorch_numpy_practice/blob/main/Learning_PyTorch/WHAT_IS_PYTORCH1.ipynb)（学習日：2022/03/16）
+1. [PyTorchとは？（WHAT IS PYTORCH?）](https://github.com/Aruminium/pytorch_numpy_practice/blob/main/Learning_PyTorch/WHAT_IS_PYTORCH1.ipynb)（学習日：2022/03/16）
+2. [Autograd（自動微分）](https://github.com/Aruminium/pytorch_numpy_practice/blob/main/Learning_PyTorch/Autograd2.ipynb)（学習日：2022/03/16）
