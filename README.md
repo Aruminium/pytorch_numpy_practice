@@ -20,3 +20,4 @@
 3. [ニューラルネットワーク入門（NEURAL NETWORKS）](https://github.com/Aruminium/pytorch_numpy_practice/blob/main/Learning_PyTorch/NEURALNETWORKS3.ipynb)（学習日：2022/03/17）
 4. [クラス分類モデルの訓練方法（TRAINING A CLASSIFIER）](https://github.com/Aruminium/pytorch_numpy_practice/blob/main/Learning_PyTorch/TRAINING_A_CLASSIFIER4.ipynb)（学習日：2022/03/17）
 5. [PyTorchの各要素の解説（LEARNING PYTORCH WITH EXAMPLES）](https://github.com/Aruminium/pytorch_numpy_practice/blob/main/Learning_PyTorch/LEARNING_PYTORCH_WITH_EXAMPLES5.ipynb)（学習日：2022/03/18）
+6. [torch.nnの解説（WHAT IS TORCH.NN REALLY?）]()（学習日：2022/03/18）
