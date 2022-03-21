@@ -1,6 +1,6 @@
 # pytorch_numpy_practice
 
-[PyTorchチュートリアル（日本語翻訳版）](https://yutaroogawa.github.io/pytorch_tutorials_jp/)の勉強日記です。
+[PyTorchチュートリアル（日本語翻訳版）](https://yutaroogawa.github.io/pytorch_tutorials_jp/)の勉強日記
 
 ## PyTorch入門(Learn the Basics)
 
@@ -25,4 +25,5 @@
 
 ## 画像処理と動画(Image/Video)
 
-1. []()（学習日：）
+1. [画像分類タスクに対する転移学習の方法](https://github.com/Aruminium/pytorch_numpy_practice/blob/main/Image_Video/Image_Video1.ipynb)（学習日：2022/03/21）
+2. [Torchvisionを利用した物体検出のファインチューニング手法]()（学習日：2022/03/21）
